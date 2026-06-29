@@ -4,7 +4,7 @@ title: "Uber App Template Guide: What's Inside RideSwift's Source Code"
 date: 2026-06-29
 ---
 [Alt text](https://kommodo.ai/i/q3Bsn88IdFCuNtPd5gcU)
-Launching a ride-hailing app from zero usually means months of work before a single ride request ever gets booked. That's the gap an uber app template is built to close. RideSwift, built by Arixlabs (previously FlutterFlowDevs) using Flutter and Supabase, is one such uber app template.. structured around a rider app, a driver app, and an admin panel, and offered as actual taxi app source code rather than a UI-only mockup.
+Launching a ride-hailing app from zero usually means months of work before a single ride request ever gets booked. That's the gap an uber app template is built to close. RideSwift, built by Arixlabs (previously FlutterFlowDevs) using Flutter and Supabase, is one such uber app template.. structured around a rider app, a driver app, and an admin panel, and offered as actual taxi app source code rather than a UI-only mockup..
 This post walks through what's included in RideSwift, how a white label app builder like it actually works, what it costs compared to building from scratch, and what to check before buying any uber clone source code template like this one.
 
 # What Is Included in an Uber App Template?
