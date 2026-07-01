@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Full Blog Post Title Here"
+title: "Freeletics Source Code, Traced From Plan Creation to Progress Tracking"
 date: 2026-07-01
 permalink: /blogs/2026/07/01/freeletics-source-code-traced-from-plan-creation-to-progress-tracking/
 ---
