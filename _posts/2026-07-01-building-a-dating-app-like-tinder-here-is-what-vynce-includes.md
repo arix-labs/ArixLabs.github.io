@@ -44,12 +44,20 @@ Vynce is built with Flutter on the frontend and Supabase as the backend, the sam
 
 # FAQ
 Is the source code fully included with a dating app template?
+
  Vynce includes the working source code for the User App and Admin Dashboard, not just design files or static screens.
+ 
 What tech stack is commonly used to build a Tinder-style app?
+
  Vynce uses Flutter for the frontend and the tinder ui, Supabase for the backend, OneSignal for push notifications, and Stripe and Razorpay for payments.
+ 
 Can one app template be reused across multiple projects?
+
  This depends on the license terms attached to the specific listing, so it's worth checking before assuming a single purchase covers multiple separate launches under a white label app builder model.
+ 
 Do dating app templates support push notifications for matches and messages?
+
  Vynce sends push notifications for new matches, messages, and other activity through OneSignal.
+ 
 Learn More
 Vynce is available through the Arixlabs Marketplace. You can see the full feature breakdown and listing details on the Vynce page.
