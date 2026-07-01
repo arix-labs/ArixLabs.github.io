@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Dating App Like Tinder? Here's What Vynce Includes"
 date: 2026-07-01
-permalink: /blogs/2026/07/15/building-a-dating-app-like-tinder-heres-what-vynce-includes/
+permalink: /blogs/2026/07/01/building-a-dating-app-like-tinder-heres-what-vynce-includes/
 ---
 
 Building a dating app from scratch means solving the same hard problems every swipe-based app needs: a matching algorithm, real-time chat, profile verification, and a moderation system to keep the platform safe. Vynce, built by Arixlabs (previously FlutterFlowDevs) using Flutter and Supabase, is a flutter tinder clone that ships all of this as working source code rather than disconnected screens.
